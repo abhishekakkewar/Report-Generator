@@ -4,3 +4,4 @@ sqlalchemy
 matplotlib
 seaborn
 google.generativeai
+vertexai
