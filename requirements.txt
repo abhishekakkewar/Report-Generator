@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+seaborn
+google-generativeai
+numpy
+google-cloud
+vertex-ai
