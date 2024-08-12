@@ -3,8 +3,3 @@ pandas
 sqlalchemy
 matplotlib
 seaborn
-google-generative-ai
-vertexai-preview
-numpy
-google-cloud
-vertex-ai
