@@ -1,8 +1,10 @@
-streamlit==1.25.0  # Example version
-pandas==2.0.3
-sqlalchemy==2.0.18
-matplotlib==3.7.2
-seaborn==0.12.2
-google-generative-ai==0.2.0
-vertexai-preview==0.1.0  # or the version you have installed
-
+streamlit
+pandas
+sqlalchemy
+matplotlib
+seaborn
+google-generative-ai
+vertexai-preview
+numpy
+google-cloud
+vertex-ai
